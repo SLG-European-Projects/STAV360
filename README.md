@@ -27,6 +27,8 @@ Twelve tiling patterns were used in this work to account for different scenarios
 If you use the STAV360 dataset in your research, please cite the GitHub repository.
 (paper citation to be added)
 
+## Acknowledgment
+This research was supported by the European Union, through the Horizon 2020 Marie Skłodowska-Curie Innovative Training Networks Programme “Mobility and Training for beyond 5G Ecosystems (MOTOR5G)” under grant agreement no. 861219.
 
 ## Contact
 To request the video files, or for any questions about the production of the dataset and data collection, please contact mmoatasim@singularlogic.eu
