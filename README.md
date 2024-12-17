@@ -29,5 +29,5 @@ If you use the STAV360 dataset in your research, please cite the GitHub reposito
 
 
 ## Contact
-For any questions about the production of the dataset and data collection, please contact mmoatasim@singularlogic.eu
+To request the video files, or for any questions about the production of the dataset and data collection, please contact mmoatasim@singularlogic.eu
 
