@@ -10,7 +10,6 @@ The dataset is organized as follows:
   - Tiling Patterns: Contains the tiling patterns (in .json format) used for stitching the constructed videos. The files contain the pattern names and the tile qualities used in each pattern.
   - Head Tracking: Tracking data collected from users watching the stitched videos using a Meta Quest 3 VR headset.
   - Ratings: Ratings (1-5) of the stitched videos as reported by the users following the absolute category rating (ACR) method.
-*note: more data will be added shortly.
 
 
 ![](./images/Screenshots.jpg)  
@@ -26,9 +25,6 @@ Twelve tiling patterns were used in this work to account for different scenarios
 ## Citation
 If you use the STAV360 dataset in your research, please cite the GitHub repository.
 (paper citation to be added)
-
-## Acknowledgment
-This research was supported by the European Union, through the Horizon 2020 Marie Skłodowska-Curie Innovative Training Networks Programme “Mobility and Training for beyond 5G Ecosystems (MOTOR5G)” under grant agreement no. 861219.
 
 ## Contact
 To request the video files, or for any questions about the production of the dataset and data collection, please contact mmoatasim@singularlogic.eu
