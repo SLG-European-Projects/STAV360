@@ -19,7 +19,7 @@ The dataset is organized as follows:
 Twelve tiling patterns were used in this work to account for different scenarios in tile-based 360° streaming and tile-based 360° video quality assessment (360° VQA). The detailed patterns can be viewed in the Tiling Patterns folder. Patterns 1-10 are the same for all videos. Whereas patterns 11 & 12 are random patterns that are different for each video. A visual representation of the tiling patterns is demonstrated below.
 
 
-![](./images/TilingPatterns.jpg) 
+![](./images/Tiling_Patterns.jpg) 
 
 
 ## Citation
