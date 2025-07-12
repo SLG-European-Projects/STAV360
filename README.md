@@ -23,8 +23,9 @@ Twelve tiling patterns were used in this work to account for different scenarios
 
 
 ## Citation
-If you use the STAV360 dataset in your research, please cite the GitHub repository.
-(paper citation to be added)
+If you use the STAV360 dataset in your research, please cite our research paper:
+
+Mahmoud, Moatasim, et al. "STAV360: A Dataset for Subjective Tile-based Assessment of 360° Videos." 2025 12th International Conference on Information Technology (ICIT). IEEE, 2025.
 
 ## Contact
 To request the video files, or for any questions about the production of the dataset and data collection, please contact mmoatasim@singularlogic.eu
