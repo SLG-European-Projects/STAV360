@@ -4,7 +4,7 @@ The Subjective Tile-based Assessment for 360° Videos (STAV360) Dataset provides
 
 ## File Organization
 The dataset is organized as follows:
-  - Reference Videos: Six reference sequences in ERP format. All video sequences are in 8K resolution @30fps, where each is 10s long. The videos were recorded using an Insta360 camera and converted to ERP format.
+  - Reference Videos (download from https://www.kaggle.com/datasets/moatasimmahmoud/stav360): Six reference sequences in ERP format. All video sequences are in 8K resolution @30fps, where each is 10s long. The videos were recorded using an Insta360 camera and converted to ERP format.
   - Video Tiles x265: Each of the references videos is divided into 10x5 tiles and each tile is encoded at six quality levels using ffmpeg’s x265 encoder (QP= 22,27,32,37,42,47).
   - Stitched Videos: Includes the stitched videos according to tiling setups described in the Tiling Patterns folder. The levels High, Mid, Low, correspond to QPs 22, 32, and 42, respectively.
   - Tiling Patterns: Contains the tiling patterns (in .json format) used for stitching the constructed videos. The files contain the pattern names and the tile qualities used in each pattern.
@@ -28,5 +28,5 @@ If you use the STAV360 dataset in your research, please cite our research paper:
 Mahmoud, Moatasim, et al. "STAV360: A Dataset for Subjective Tile-based Assessment of 360° Videos." 2025 12th International Conference on Information Technology (ICIT). IEEE, 2025.
 
 ## Contact
-To request the video files, or for any questions about the production of the dataset and data collection, please contact mmoatasim@singularlogic.eu
+For any questions about the production of the dataset and data collection, please contact mmoatasim@singularlogic.eu
 
